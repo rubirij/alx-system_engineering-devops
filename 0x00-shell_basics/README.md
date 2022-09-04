@@ -1,1 +1,1 @@
-13-symbolic_link
+symbolic link to /bin/ls, named __ls__
