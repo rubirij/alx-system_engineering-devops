@@ -1,1 +1,1 @@
-symbolic link to /bin/ls
+13-symbolic_link
